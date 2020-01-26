@@ -94,7 +94,7 @@ $ vi 文件名 +行数
 
 > 提示：按下键盘时，注意关闭输入法
 
-> <img alt="VIM-VI-001_vi键盘.png" src="assets/VIM-VI-001_vi键盘.png" width="" height="" >
+> <img alt="VIM-VIM-001_vi键盘.png" src="assets/VIM-VIM-001_vi键盘.png" width="" height="" >
 
 ## 03. 三种工作模式
 
