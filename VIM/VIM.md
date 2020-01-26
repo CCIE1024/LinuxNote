@@ -28,7 +28,7 @@
 
 * `vi` 是 `Visual interface` 的简称，是 `Linux` 中 **最经典** 的文本编辑器
 * `vi` 的核心设计思想 —— **让程序员的手指始终保持在键盘的核心区域，就能完成所有的编辑操作**
-> <img alt="VI-001_vi键盘.png" src="assets/VI-001_vi键盘.png" width="" height="" >
+> <img alt="VIM-VIM-001_vi键盘.png" src="assets/VIM-VIM-001_vi键盘.png" width="" height="" >
 
 * `vi` 的特点：
     * **没有图形界面** 的 **功能强大** 的编辑器
